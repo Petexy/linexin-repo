@@ -1,1 +1,1 @@
-linexin-repo.db.tar.zst.sig
+linexin-repo.db.tar.gz.sig
